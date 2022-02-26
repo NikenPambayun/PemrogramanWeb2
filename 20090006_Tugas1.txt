@@ -1,0 +1,18 @@
+Microsoft Windows [Version 10.0.19041.1415]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\NIKEN>cd ..
+
+C:\Users>cd ..
+
+C:\>cd xampp
+
+C:\xampp>cd htdocs
+
+C:\xampp\htdocs>cd PW2
+
+C:\xampp\htdocs\PW2>php 20090006_Tugas1.php
+NAMA : RR. Niken Pambayun Dyah Setyawati
+NIM : 20090006
+KELAS : 4C
+C:\xampp\htdocs\PW2>
